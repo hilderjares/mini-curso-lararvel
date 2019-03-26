@@ -1,3 +1,3 @@
-# mini-curso Lararvel 5
+# Workshop Lararvel 5.4
 
-mini-curso que ministrei mostrando como fazer algumas coisas com o Laravel 5: upload de imagens, valdação de forms, operações com o com banco de dados Mysql
+oficina que ministrei mostrando como fazer algumas coisas com o Laravel 5.4: upload de imagens, valdação de forms, operações com o com banco de dados Mysql
